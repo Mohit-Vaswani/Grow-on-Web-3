@@ -85,6 +85,16 @@ em{
   font-family: 'Oswald', sans-serif;
 }
 
+.links{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.links a{
+margin: 1rem 0;
+}
+
 @media screen and (max-width: 1029px) {
 
   .navbar__container {
